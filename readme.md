@@ -1,4 +1,8 @@
 # Estudo de comando NASM
+<p align="center">
+<img src="https://flashfittrainer.com/wp-content/uploads/2020/04/NASM-logo.png" width=200 heigth=200>
+</p>
+
 ## primeiros comandos
 
 * Programa hello world
